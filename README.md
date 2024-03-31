@@ -3,7 +3,7 @@
 This script vertically flips the screen and touch panel coordinates on linux.
 This was designed for use with the following raspberry pi touch screen:
 
-Amazon link: https://amzn.to/3OpChbx
+Amazon link: https://www.amazon.com/dp/B0C7BYHN5C
 Wisecoco No-Cable-Needed Dual-Speaker with OSD 10.1 inch Raspberry Pi
 LCD Touch Screen Portable Monitor IPS 1024 * 600
 HDMI Touchscreen Display for RPi 4B 4 3b+ 3 2 Zero B B+
